@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+scuola/students_schools_years.csv filter=lfs diff=lfs merge=lfs -text
+scuola/students_concatenated.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
