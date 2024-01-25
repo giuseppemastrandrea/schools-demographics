@@ -1,6 +1,6 @@
 # School Demographics
 
-In questo repository trovi tutti i grafici che ho usato nel mio articolo [Una riflessione data-driven sul calo di iscrizioni nelle scuole]([http://www.puntoinformaticofree.it](https://giumast.substack.com/p/una-riflessione-data-driven-sul-calo)https://giumast.substack.com/p/una-riflessione-data-driven-sul-calo).
+In questo repository trovi tutti i grafici che ho usato nel mio articolo [Una riflessione data-driven sul calo di iscrizioni nelle scuole](https://giumast.substack.com/p/una-riflessione-data-driven-sul-calo).
 
 Ne trovi molti altri in realtà che non ho più inserito nell'articolo finale. 
 
